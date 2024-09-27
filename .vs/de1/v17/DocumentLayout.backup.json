@@ -7,19 +7,15 @@
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:categorydetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\laptrinhweb\\kiemtra\\qldouong_wp002\\source_code_de2\\defaultpagemaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:defaultpagemaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\style\\beveragepagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:style\\beveragepagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\laptrinhweb\\kiemtra\\qldouong_wp002\\source_code_de2\\defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\laptrinhweb\\kiemtra\\qldouong_wp002\\source_code_de2\\categorydetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:categorydetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\laptrinhweb\\kiemtra\\qldouong_wp002\\source_code_de2\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -30,32 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DefaultPageMaster.Master.cs",
-              "DocumentMoniker": "D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\DefaultPageMaster.Master.cs",
-              "RelativeDocumentMoniker": "DefaultPageMaster.Master.cs",
-              "ToolTip": "D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\DefaultPageMaster.Master.cs",
-              "RelativeToolTip": "DefaultPageMaster.Master.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwBwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:59:30.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryDetails.aspx.cs",
-              "DocumentMoniker": "D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\CategoryDetails.aspx.cs",
-              "RelativeDocumentMoniker": "CategoryDetails.aspx.cs",
-              "ToolTip": "D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\CategoryDetails.aspx.cs",
-              "RelativeToolTip": "CategoryDetails.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:56:40.02Z",
+              "Title": "BeveragePageStyle.css",
+              "DocumentMoniker": "D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\Style\\BeveragePageStyle.css",
+              "RelativeDocumentMoniker": "Style\\BeveragePageStyle.css",
+              "ToolTip": "D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\Style\\BeveragePageStyle.css",
+              "RelativeToolTip": "Style\\BeveragePageStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-27T09:14:34.626Z",
               "EditorCaption": ""
             },
             {
@@ -86,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "home.aspx",
               "DocumentMoniker": "D:\\LAPTRINHWEB\\KIEMTRA\\QLDoUong_WP002\\source_code_de2\\home.aspx",
               "RelativeDocumentMoniker": "home.aspx",
